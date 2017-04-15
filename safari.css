@@ -1,0 +1,48 @@
+div.bilibili-player-video-message,
+div.bilibili-player-video-message * {
+    color: #000 !important;
+    background: #000 !important;
+}
+
+div.bilibili-player-video-control,
+.bilibili-player-video-btn.bilibili-player-video-btn-start.video-state-pause.bilibili-player-video-time-wrap,
+div.bpui-slider-tracker-wrp,
+div.bilibili-player-video-sendbar.relative,
+div.bilibili-player-video-hint,
+.bilibili-player-video-inputbar,
+.bilibili-player-area.video-state-pause,
+div.bilibili-player-video-inputbar .bilibili-player-video-danmaku-input {
+    background-color: #000 !important;
+    border: None !important;
+}
+
+div.bilibili-player-video-btn-send.bpui-component.bpui-button.button {
+    background: #253B6E !important;
+    top: 0px !important;
+    right: 0px !important;
+    padding: 5px 20px !important;
+    border: None !important;
+    border-radius: 0 !important;
+    color: #eeffaa !important;
+}
+
+div.bilibili-player-video-hint {
+    padding: 0 5px !important;
+}
+
+div.bilibili-player-video-inputbar .bilibili-player-video-danmaku-input {
+    color: #eeffaa !important;
+}
+
+
+div.bilibili-player-video-progress-buffer {
+    background-color: #F47C7C;
+}
+
+div.bpui-slider-progress {
+    background-color: #5A9E7C !important;
+}
+
+div.bilibili-player-video-progress-buffer-range {
+    background-color: #C0FFC2 !important;
+}
